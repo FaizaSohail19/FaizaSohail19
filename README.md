@@ -7,7 +7,7 @@
 *BS Information Technology — 6th Semester · Pakistan*
 
 [![Email](https://img.shields.io/badge/Email-cr5846722%40gmail.com-0a0f1e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=00c9b1)](mailto:cr5846722@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a0f1e?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=00c9b1)]([https://linkedin.com/in/your-username](https://www.linkedin.com/in/faiza-sohail-5175892a6/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a0f1e?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=00c9b1)](https://www.linkedin.com/in/faiza-sohail-5175892a6/)
 
 </div>
 
